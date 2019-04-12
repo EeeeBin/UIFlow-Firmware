@@ -1,0 +1,10 @@
+{
+    "name": "UIFlow",
+    "description": "nooooooooo bug",
+    "keywords": "ESP32, Micropython",
+    "author": "EeeeBin",
+    "repository": "https://github.com/sakabin/UIFlow-Firmware",
+    "firmware-path": "firmware",
+    "version": "1.2.3",
+    "framework": "Micropython"
+}
