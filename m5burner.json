@@ -4,7 +4,20 @@
     "keywords": "ESP32, Micropython",
     "author": "EeeeBin",
     "repository": "https://github.com/sakabin/UIFlow-Firmware",
-    "firmware-path": "firmware",
+    "firmware_path": [
+        {
+            "en": "firmware_en"
+        },
+        {
+            "cn": "firmware_cn"
+        },
+        {
+            "Stick": "firmware_Stick"
+        },
+        {
+            "StickC": "firmware_StickC"
+        }
+    ],
     "version": "1.2.3",
     "framework": "Micropython"
 }
