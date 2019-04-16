@@ -1,21 +1,45 @@
 {
     "name": "UIFlow",
-    "description": "nooooooooo bug",
+    "description": "maybe nooooooooo bug",
     "keywords": "ESP32, Micropython",
     "author": "EeeeBin",
     "repository": "https://github.com/sakabin/UIFlow-Firmware",
-    "firmware_path": [
+    "firmware_category": [
         {
-            "en": "firmware_en"
+            "Stack-EN": {
+                "path": "firmware_en",
+                "device": [
+                    "M5Stack Core"
+                ],
+                "default_baud": 921600
+            }
         },
         {
-            "cn": "firmware_cn"
+            "Stack-CN": {
+                "path": "firmware_cn",
+                "device": [
+                    "M5Stack Core"
+                ],
+                "default_baud": 921600
+            }
         },
         {
-            "Stick": "firmware_Stick"
+            "Stick": {
+                "path": "firmware_Stick",
+                "device": [
+                    "M5Stack Stick"
+                ],
+                "default_baud": 921600
+            }
         },
         {
-            "StickC": "firmware_StickC"
+            "StickC": {
+                "path": "firmware_StickC",
+                "device": [
+                    "M5Stack StickC"
+                ],
+                "default_baud": 750000
+            }
         }
     ],
     "version": "1.2.3",
