@@ -24,15 +24,6 @@
             }
         },
         {
-            "Stick": {
-                "path": "firmware_Stick",
-                "device": [
-                    "M5Stack Stick"
-                ],
-                "default_baud": 921600
-            }
-        },
-        {
             "StickC": {
                 "path": "firmware_StickC",
                 "device": [
