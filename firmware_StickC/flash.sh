@@ -28,5 +28,6 @@ esptool.py --chip esp32 --port /dev/${port} --baud 750000 --before default_reset
 --flash_mode dio --flash_freq 80m --flash_size detect \
 0x1000 bootloader_0x1000.bin \
 0x8000 partitions_0x8000.bin \
+0xf000 phy_init_data_0xf000.bin \
 0x10000 application_0x10000.bin \
 0x1F0000 fatfsImg_0x1f0000.img
