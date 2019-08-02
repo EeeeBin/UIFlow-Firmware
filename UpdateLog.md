@@ -1,7 +1,10 @@
-### v1.3.3
+### v1.3.5
 
-* Add Face support
-* Add PB-HUB support
-* Add PM2.5 support
-* Add USB-MODE delete, rename, make dir method
-* fix some bug
+* Add MLX90640 support
+* Add TIMER support
+* Add POWER support
+* Add AXP192 support
+* Add Cellular support
+* Add MAP support
+* Add JSON support
+* Fixed some bugs
