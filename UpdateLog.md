@@ -1,10 +1,6 @@
-### v1.3.5
+### v1.4.0
 
-* Add MLX90640 support
-* Add TIMER support
-* Add POWER support
-* Add AXP192 support
-* Add Cellular support
-* Add MAP support
-* Add JSON support
+* Add ESPNow support
+* Add Remote-Beta support
+* Add screen rotate, brightness set
 * Fixed some bugs
