@@ -33,7 +33,7 @@
             }
         }
     ],
-    "version": "1.4.0-beta",
+    "version": "1.4.1-beta",
     "framework": "Micropython"
 }
 
