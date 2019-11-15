@@ -1,6 +1,7 @@
-### v1.4.0
+### v1.4.2
 
-* Add ESPNow support
-* Add Remote-Beta support
-* Add screen rotate, brightness set
-* Fixed some bugs
+* Close Wi-Fi ap in uiflow start
+* Add Hat + Unit MLX90640
+* Add HAT TOF, RoverC, JoyC
+* Add AXP192 API
+* Fixed StickC frequent network disconnection bug, (maybe....)
