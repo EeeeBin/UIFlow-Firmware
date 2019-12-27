@@ -1,7 +1,7 @@
-### v1.4.2
+### v1.4.3
 
-* Close Wi-Fi ap in uiflow start
-* Add Hat + Unit MLX90640
-* Add HAT TOF, RoverC, JoyC
-* Add AXP192 API
-* Fixed StickC frequent network disconnection bug, (maybe....)
+* Add: BaseX
+* Add: Server china and singapore select in setting
+* Fixed: in http request, it no longer auto converts string to json data
+* StickC: Fixed pahub unit support
+* StickC: Add: hat yun add humidity and temperature support
