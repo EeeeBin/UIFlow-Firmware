@@ -30,4 +30,4 @@ esptool.py --chip esp32 --port /dev/${port} --baud 750000 --before default_reset
 0x8000 partitions_0x8000.bin \
 0xf000 phy_init_data_0xf000.bin \
 0x10000 application_0x10000.bin \
-0x200000 fatfsImg_0x200000.img
+0x210000 fatfsImg_0x210000.img
