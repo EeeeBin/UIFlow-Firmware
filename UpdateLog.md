@@ -1,5 +1,4 @@
-### v1.4.4
+### v1.4.5
 
-* Add: PLUS and GOPLUS module
-* Add: Accel Unit
-* Add: CardKB Hat
+* Add: Burner wifi set
+* Add: ATOM support

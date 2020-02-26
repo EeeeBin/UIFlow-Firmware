@@ -31,9 +31,27 @@
                 ],
                 "default_baud": 750000
             }
+        },
+        {
+            "ATOM-Lite": {
+                "path": "firmware_ATOM",
+                "device": [
+                    "M5Stack ATOM Lite"
+                ],
+                "default_baud": 750000
+            }
+        },
+        {
+            "ATOM-Matrix": {
+                "path": "firmware_ATOM",
+                "device": [
+                    "M5Stack ATOM Matrix"
+                ],
+                "default_baud": 750000
+            }
         }
     ],
-    "version": "1.4.4",
+    "version": "1.4.5",
     "framework": "Micropython"
 }
 
