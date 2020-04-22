@@ -1,6 +1,6 @@
 {
     "name": "UIFlow",
-    "description": "Base Micropython v1.11",
+    "description": "Base Micropython v1.12, Beta Version, only for test",
     "keywords": "ESP32, Micropython",
     "author": "EeeeBin",
     "repository": "https://github.com/sakabin/UIFlow-Firmware",
@@ -13,45 +13,9 @@
                 ],
                 "default_baud": 921600
             }
-        },
-        {
-            "Stack-CN": {
-                "path": "firmware_cn",
-                "device": [
-                    "M5Stack Core"
-                ],
-                "default_baud": 921600
-            }
-        },
-        {
-            "StickC": {
-                "path": "firmware_StickC",
-                "device": [
-                    "M5Stack StickC"
-                ],
-                "default_baud": 750000
-            }
-        },
-        {
-            "ATOM-Lite": {
-                "path": "firmware_ATOM",
-                "device": [
-                    "M5Stack ATOM Lite"
-                ],
-                "default_baud": 750000
-            }
-        },
-        {
-            "ATOM-Matrix": {
-                "path": "firmware_ATOM",
-                "device": [
-                    "M5Stack ATOM Matrix"
-                ],
-                "default_baud": 750000
-            }
         }
     ],
-    "version": "1.4.5",
+    "version": "1.5.0",
     "framework": "Micropython"
 }
 
