@@ -1,3 +1,17 @@
+### v1.5.2
+
+* Fixed: button dual press error
+* Fixed: NCIR, Light unit read error
+* Fixed: PAHUB support error
+
+* Update: GPS unit add speed and course get
+* Update: Wi-Fi dhcp hostname config to ESP-{apikey} 
+
+* Add: GPS module support
+* Add: Modbus support
+* Add: Modbus Slave support
+* Add: EEPROM support 
+
 ### v1.5.1
 
 * Fixed: SD card error
